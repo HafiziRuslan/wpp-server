@@ -1,19 +1,25 @@
+## 2.8.11 (2026-01-05)
+
+* chore: fixed npm publish (317b05b)
+
+---
+
 ## 2.8.10 (2025-12-10)
 
-- Merge branch 'main' of github.com:wppconnect-team/wppconnect-server
+* Merge branch 'main' of github.com:wppconnect-team/wppconnect-server
 
 ---
 
 ## 2.8.9 (2025-12-10)
 
-- Merge branch 'main' of github.com:wppconnect-team/wppconnect-server
+* Merge branch 'main' of github.com:wppconnect-team/wppconnect-server
 
 ---
 
 ## 2.8.8 (2025-12-10)
 
-- docs: Improovment on docs
-- fix: update yarn cache setup to use Corepack and simplify cache paths
+* docs: Improovment on docs
+* fix: update yarn cache setup to use Corepack and simplify cache paths
 
 ---
 
@@ -21,23 +27,23 @@
 
 ### Bug Fixes
 
-- Chatwoot Push-To-Talk (#2196) (4c41072)
-- deps: update dependency @wppconnect-team/wppconnect to ^1.37.6 (#2380) (93c5b4d)
-- Downgrade express (#2192) (40757c3)
-- husky removing warnings (f6bdf31)
-- husky removing warnings2 (df9652f)
-- Repeating messages when sending private messages on chatwoot (#2218) (b1c6881)
-- typos and started using StatusFind enum (eb91101)
+* Chatwoot Push-To-Talk (#2196) (4c41072)
+* deps: update dependency @wppconnect-team/wppconnect to ^1.37.6 (#2380) (93c5b4d)
+* Downgrade express (#2192) (40757c3)
+* husky removing warnings (f6bdf31)
+* husky removing warnings2 (df9652f)
+* Repeating messages when sending private messages on chatwoot (#2218) (b1c6881)
+* typos and started using StatusFind enum (eb91101)
 
 ### Features
 
-- add proxy support (#2323) (da635a8)
-- get detailed information about a group (#2313) (aeee2e7)
-- set online presence (#2187) (cfb4aa6)
+* add proxy support (#2323) (da635a8)
+* get detailed information about a group (#2313) (aeee2e7)
+* set online presence (#2187) (cfb4aa6)
 
 ## Reverts
 
-- Revert "Added support group membership request (#2087)" (#2190) (0c4c997), closes #2087 #2190
+* Revert "Added support group membership request (#2087)" (#2190) (0c4c997), closes #2087 #2190
 
 ---
 
@@ -45,7 +51,7 @@
 
 ### Bug Fixes
 
-- **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.4
+* **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.4
 
 ---
 
@@ -53,7 +59,7 @@
 
 ### Bug Fixes
 
-- **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.3
+* **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.3
 
 ---
 
@@ -61,7 +67,7 @@
 
 ### Bug Fixes
 
-- **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.2
+* **deps:** update dependency @wppconnect-team/wppconnect to ^1.36.2
 
 ---
 
@@ -69,7 +75,7 @@
 
 ### Bug Fixes
 
-- Fixed build errors
+* Fixed build errors
 
 ---
 
@@ -77,7 +83,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.35.1
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.35.1
 
 ---
 
@@ -85,13 +91,13 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.34.2
-- Fixed not read QRCode when starting a session
-- Improvement on set close session when timeout error
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.34.2
+* Fixed not read QRCode when starting a session
+* Improvement on set close session when timeout error
 
 ### Features
 
-- Added support for send message to [@lid](https://github.com/lid)
+* Added support for send message to [@lid](https://github.com/lid)
 
 ---
 
@@ -99,9 +105,9 @@
 
 ### Bug Fixes
 
-- Compatibility for buttons (v3)
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.34.0
-- Fixed docs Improvement docs for delete-message
+* Compatibility for buttons (v3)
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.34.0
+* Fixed docs Improvement docs for delete-message
 
 ---
 
@@ -109,11 +115,11 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.33.0
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.33.0
 
 ### Features
 
-- Added login by code support
+* Added login by code support
 
 ---
 
@@ -121,7 +127,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.3
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.3
 
 ---
 
@@ -129,7 +135,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.2
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.2
 
 ---
 
@@ -137,7 +143,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.0
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.32.0
 
 ---
 
@@ -145,7 +151,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.31.1
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.31.1
 
 ---
 
@@ -157,7 +163,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.3
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.3
 
 ---
 
@@ -165,7 +171,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.2
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.2
 
 ---
 
@@ -173,7 +179,7 @@
 
 ### Bug Fixes
 
-- Fixed DockerFile
+* Fixed DockerFile
 
 ---
 
@@ -181,8 +187,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.1
-- Fixed return for group controller
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.30.1
+* Fixed return for group controller
 
 ---
 
@@ -190,17 +196,17 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.29.0
-- Fixed autoDownload function
-- Fixed forward-messages route
-- Fixed get bussiness products
-- Fixed payload get-group-members in docs
-- Replaced ts-node with tsx
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.29.0
+* Fixed autoDownload function
+* Fixed forward-messages route
+* Fixed get bussiness products
+* Fixed payload get-group-members in docs
+* Replaced ts-node with tsx
 
 ### Features
 
-- Added more params to deleteMessage
-- Added support for send newsletter message
+* Added more params to deleteMessage
+* Added support for send newsletter message
 
 ---
 
@@ -208,20 +214,20 @@
 
 ### Bug Fixes
 
-- **config**: autoDownload and UploadS3 in websocket
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.28.3
-- Fixed docs for get business profile products
-- Fixed docs for send-list-message
-- Fixed docs for send-message
-- Fixed forwardMessage function
-- Fixed getOrderbyMsg function
+* **config**: autoDownload and UploadS3 in websocket
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.28.3
+* Fixed docs for get business profile products
+* Fixed docs for send-list-message
+* Fixed docs for send-message
+* Fixed forwardMessage function
+* Fixed getOrderbyMsg function
 
 ### Features
 
-- Added '/common-groups' router
-- Added '/edit-message' router
-- Added 'send-order-message' router
-- Added newsletter functions and routes
+* Added '/common-groups' router
+* Added '/edit-message' router
+* Added 'send-order-message' router
+* Added newsletter functions and routes
 
 ---
 
@@ -229,29 +235,29 @@
 
 ### Bug Fixes
 
-- Added session in qrCode webhook
-- **BREAKING CHANGE**: Refactor file uploads for aws-s3
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.28.0
-- Fixed changePrivacyGroup function
-- Fixed get profile pic for groups
-- Fixed image rendering issue in Chatwoot
-- Fixed sendFile function
-- Fixed setGroupProfilePic function
-- Fixed take-screenshot router
-- Fixed types and bug fixed on aws
-- Fixed variable s3 error
-- Improvement in findConversation on chatWoot
-- Improvement on autoDownload function
-- Removed webhook default on start-session
-- version image alpine
+* Added session in qrCode webhook
+* **BREAKING CHANGE**: Refactor file uploads for aws-s3
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.28.0
+* Fixed changePrivacyGroup function
+* Fixed get profile pic for groups
+* Fixed image rendering issue in Chatwoot
+* Fixed sendFile function
+* Fixed setGroupProfilePic function
+* Fixed take-screenshot router
+* Fixed types and bug fixed on aws
+* Fixed variable s3 error
+* Improvement in findConversation on chatWoot
+* Improvement on autoDownload function
+* Removed webhook default on start-session
+* version image alpine
 
 ### Features
 
-- add prometheus instrumentation
-- Added dynamic device name
-- Added onSelfMessage event for Webhook
-- Added option to set endpoint on s3
-- Added option to set linkpreview
+* add prometheus instrumentation
+* Added dynamic device name
+* Added onSelfMessage event for Webhook
+* Added option to set endpoint on s3
+* Added option to set linkpreview
 
 ---
 
@@ -259,8 +265,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.27.2
-- Fixed deps for deploy on Docker containers
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.27.2
+* Fixed deps for deploy on Docker containers
 
 ---
 
@@ -268,8 +274,8 @@
 
 ### Bug Fixes
 
-- Removed clearsession on route 'close-session'
-- Fixed error on awsBucketName not exists
+* Removed clearsession on route 'close-session'
+* Fixed error on awsBucketName not exists
 
 ---
 
@@ -277,7 +283,7 @@
 
 ### Bug Fixes
 
-- Upgrade @wppconnect-team/wppconnect@1.27.1
+* Upgrade @wppconnect-team/wppconnect@1.27.1
 
 ---
 
@@ -285,7 +291,7 @@
 
 ### Bug Fixes
 
-- Fixed logout sesseion
+* Fixed logout sesseion
 
 ---
 
@@ -293,13 +299,13 @@
 
 ### Bug Fixes
 
-- Deprecated all-groups route
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.27.0
+* Deprecated all-groups route
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.27.0
 
 ### Features
 
-- Added community routes
-- Added route list-chats
+* Added community routes
+* Added route list-chats
 
 ---
 
@@ -307,7 +313,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.26.0
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.26.0
 
 ---
 
@@ -319,20 +325,20 @@
 
 ### Bug Fixes
 
-- added auto generate swager docs
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.25.0
-- Improvement delete data on logout session
-- **modules**: hide yarn files
-- Remove unnecessary data
-- Upgrade node version of auto release
+* added auto generate swager docs
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.25.0
+* Improvement delete data on logout session
+* **modules**: hide yarn files
+* Remove unnecessary data
+* Upgrade node version of auto release
 
 ### Features
 
-- Added more options to chatwoot config
-- Added onUpdateLabel event in webhook
-- Added restore and backup routes
-- Added route all-chats-archived, clear-session-data, edit-business-profile, get-platform-from-message, set-limit, take-screenshot
-- Subject Possibility to parameterize the AWS Bucket and the File Walk by Session
+* Added more options to chatwoot config
+* Added onUpdateLabel event in webhook
+* Added restore and backup routes
+* Added route all-chats-archived, clear-session-data, edit-business-profile, get-platform-from-message, set-limit, take-screenshot
+* Subject Possibility to parameterize the AWS Bucket and the File Walk by Session
 
 ---
 
@@ -340,9 +346,9 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.2
-- Fixed error on cors Socket.IO
-- Fixed error on get-qr-code when client is null
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.2
+* Fixed error on cors Socket.IO
+* Fixed error on get-qr-code when client is null
 
 ---
 
@@ -350,13 +356,13 @@
 
 ### Bug Fixes
 
-- Added support to change default lib logger
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.1
-- Fixed chat-by-id router
-- Fixed default log config
-- Fixed error swagger file not found
-- Fixed session on webhook status-find
-- Fixed warning for aws-s3
+* Added support to change default lib logger
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.1
+* Fixed chat-by-id router
+* Fixed default log config
+* Fixed error swagger file not found
+* Fixed session on webhook status-find
+* Fixed warning for aws-s3
 
 ---
 
@@ -364,14 +370,14 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.0
-- Don't clear the session by defaut on close
-- Fixed edit-collection route
-- Fixed remove-product-image route
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.23.0
+* Don't clear the session by defaut on close
+* Fixed edit-collection route
+* Fixed remove-product-image route
 
 ### Features
 
-- add create product route
+* add create product route
 
 ---
 
@@ -379,7 +385,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.22.0
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.22.0
 
 ---
 
@@ -387,11 +393,11 @@
 
 ### Bug Fixes
 
-- fixing set-cart-enable route
+* fixing set-cart-enable route
 
 ### Features
 
-- Added send-catalog-link feature
+* Added send-catalog-link feature
 
 ---
 
@@ -399,12 +405,12 @@
 
 ### Bug Fixes
 
-- Fixed send message to groups
+* Fixed send message to groups
 
 ### Features
 
-- Added onRevokedMessage event webhook
-- Improvements on return request
+* Added onRevokedMessage event webhook
+* Improvements on return request
 
 ---
 
@@ -412,8 +418,8 @@
 
 ### Bug Fixes
 
-- Fixed phone number validate
-- Fixed return on create groups
+* Fixed phone number validate
+* Fixed return on create groups
 
 ---
 
@@ -421,11 +427,11 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.20.0
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.20.0
 
 ### Features
 
-- Added reactions and poll functions and events
+* Added reactions and poll functions and events
 
 ---
 
@@ -433,8 +439,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.2
-- Fixed return undefined on sendListMsg
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.2
+* Fixed return undefined on sendListMsg
 
 ---
 
@@ -442,7 +448,7 @@
 
 ### Bug Fixes
 
-- Fixed send image with caption
+* Fixed send image with caption
 
 ---
 
@@ -450,7 +456,7 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.1
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.1
 
 ---
 
@@ -458,8 +464,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.0
-- Fixed undefined urlcode on start session
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.19.0
+* Fixed undefined urlcode on start session
 
 ---
 
@@ -467,8 +473,8 @@
 
 ### Bug Fixes
 
-- Fixed error on getQrCode and sessionState
-- Fixed send location
+* Fixed error on getQrCode and sessionState
+* Fixed send location
 
 ---
 
@@ -476,8 +482,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.18.1
-- Fixed error on numberExists
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.18.1
+* Fixed error on numberExists
 
 ---
 
@@ -485,8 +491,8 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.17.1
-- **message**: fix sendFileFromBase64 with options
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.17.1
+* **message**: fix sendFileFromBase64 with options
 
 ---
 
@@ -494,16 +500,16 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.16.1
-- Include phone param on get-messages
-- remove unused imports
-- req.client.close is not a function
-- WppConnect-server version on start
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.16.1
+* Include phone param on get-messages
+* remove unused imports
+* req.client.close is not a function
+* WppConnect-server version on start
 
 ### Features
 
-- Added onLoadingScreen messages
-- Added router clear-all-chats
+* Added onLoadingScreen messages
+* Added router clear-all-chats
 
 ---
 
@@ -511,17 +517,17 @@
 
 ### Bug Fixes
 
-- Check session isConnected
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.16.0
-- Device not connected error
-- Error on delete message group
-- Receive files on set group profile pic
-- Send file image on sendImageStorie
-- Swagger docs for typing
+* Check session isConnected
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.16.0
+* Device not connected error
+* Error on delete message group
+* Receive files on set group profile pic
+* Send file image on sendImageStorie
+* Swagger docs for typing
 
 ### Features
 
-- Added router to set recording
+* Added router to set recording
 
 ---
 
@@ -529,16 +535,16 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.15.0
-- Swagger docs typos fix
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.15.0
+* Swagger docs typos fix
 
 ### Features
 
-- Added routes manage-labels
-- Added SendImageStorie, SendVideoStorie, sendTextStorie
-- Event onReactionMessage and SetGroup ProfilePic
-- Route SendSticker and SendSticker as GIF
-- Send Reaction to Message
+* Added routes manage-labels
+* Added SendImageStorie, SendVideoStorie, sendTextStorie
+* Event onReactionMessage and SetGroup ProfilePic
+* Route SendSticker and SendSticker as GIF
+* Send Reaction to Message
 
 ---
 
@@ -546,13 +552,13 @@
 
 ### Bug Fixes
 
-- **message**: fix deprecated sendFileFromBase64
-- send file name on send-file-base64 and docs fix
+* **message**: fix deprecated sendFileFromBase64
+* send file name on send-file-base64 and docs fix
 
 ### Features
 
-- Added archive-all-chats router
-- Delete all chats
+* Added archive-all-chats router
+* Delete all chats
 
 ---
 
@@ -560,18 +566,18 @@
 
 ### Bug Fixes
 
-- Archive chat malforming and docs
-- Change router to profile pic, similar lib
-- Correct path to download stickers
-- Mark unseen error
-- Remove unnecessary var
-- Send buttons list sections
+* Archive chat malforming and docs
+* Change router to profile pic, similar lib
+* Correct path to download stickers
+* Mark unseen error
+* Remove unnecessary var
+* Send buttons list sections
 
 ### Features
 
-- Socket emit on events
-- Added reject call router
-- Send List Message
+* Socket emit on events
+* Added reject call router
+* Send List Message
 
 ---
 
@@ -579,13 +585,13 @@
 
 ### Bug Fixes
 
-- **deps**: update dependency @wppconnect-team/wppconnect to ^1.14.2
-- Fixed function to load messages
-- Fixed sendVoice and updated the docs
+* **deps**: update dependency @wppconnect-team/wppconnect to ^1.14.2
+* Fixed function to load messages
+* Fixed sendVoice and updated the docs
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -593,7 +599,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -601,12 +607,12 @@
 
 ### Bug Fixes
 
-- Fixed send-buttons endpoint
+* Fixed send-buttons endpoint
 
 ### Features
 
-- Added customUserDataDir by default to config.json
-- New version of LIB
+* Added customUserDataDir by default to config.json
+* New version of LIB
 
 ---
 
@@ -614,7 +620,7 @@
 
 ### Features
 
-- Updated WPPConnect library
+* Updated WPPConnect library
 
 ---
 
@@ -622,8 +628,8 @@
 
 ### Features
 
-- Added options for send-message route
-- Updated all packages
+* Added options for send-message route
+* Updated all packages
 
 ---
 
@@ -631,7 +637,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -639,7 +645,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -647,11 +653,11 @@
 
 ### Bug Fixes
 
-- Fixed QRCode sending for ChatWoot
+* Fixed QRCode sending for ChatWoot
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -659,7 +665,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -667,14 +673,14 @@
 
 ### Bug Fixes
 
-- fixed error occurred when archiving chats, if there are no chats
-- mongodbTokenStory update token
-- treatment for decryptFile
+* fixed error occurred when archiving chats, if there are no chats
+* mongodbTokenStory update token
+* treatment for decryptFile
 
 ### Features
 
-- New version of LIB
-- set maxListeners
+* New version of LIB
+* set maxListeners
 
 ---
 
@@ -682,14 +688,14 @@
 
 ### Bug Fixes
 
-- Fix clearChat function
-- Fix deleteChat function
-- Fix send media functions
-- Fix sendSeen function
+* Fix clearChat function
+* Fix deleteChat function
+* Fix send media functions
+* Fix sendSeen function
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -697,7 +703,7 @@
 
 ### Bug Fixes
 
-- login after disconnected from mobile
+* login after disconnected from mobile
 
 ---
 
@@ -705,7 +711,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -713,7 +719,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -721,7 +727,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -729,7 +735,7 @@
 
 ### Bug Fixes
 
-- lint
+* lint
 
 ---
 
@@ -737,12 +743,12 @@
 
 ### Bug Fixes
 
-- lint
+* lint
 
 ### Features
 
-- get host phone number
-- New version of LIB
+* get host phone number
+* New version of LIB
 
 ---
 
@@ -750,7 +756,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -758,13 +764,13 @@
 
 ### Bug Fixes
 
-- lint
-- sendImage bug
-- sendVoice name
+* lint
+* sendImage bug
+* sendVoice name
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -772,7 +778,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -780,7 +786,7 @@
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -788,19 +794,19 @@
 
 ### Bug Fixes
 
-- startSession
-- **Dev**: Fixed error when loading token by redis
-- chatwoot
+* startSession
+* **Dev**: Fixed error when loading token by redis
+* chatwoot
 
 ### Features
 
-- Customuserdatadir not required
-- Change Name Session of the device
-- save UserDataDir for multi device
+* Customuserdatadir not required
+* Change Name Session of the device
+* save UserDataDir for multi device
 
 ### Reverts
 
-- revert "changeToMyWppconnectVersion"
+* revert "changeToMyWppconnectVersion"
 
 ---
 
@@ -808,14 +814,14 @@
 
 ### Bug Fixes
 
-- Lint correction.
-- lint
+* Lint correction.
+* lint
 
 ### Features
 
-- Added name in config.json
-- Added number on config.json
-- New version of LIB
+* Added name in config.json
+* Added number on config.json
+* New version of LIB
 
 ---
 
@@ -823,11 +829,11 @@
 
 ### Bug Fixes
 
-- block/unblock contact
+* block/unblock contact
 
 ### Features
 
-- New version of LIB
+* New version of LIB
 
 ---
 
@@ -835,12 +841,12 @@
 
 ### Bug Fixes
 
-- Release: Fixed the Redis webhook that was overwhelming
+* Release: Fixed the Redis webhook that was overwhelming
 
 ### Features
 
-- Added Endpoint Healthz
-- Endpoint UNHEALTHY Added
+* Added Endpoint Healthz
+* Endpoint UNHEALTHY Added
 
 ---
 
@@ -848,16 +854,16 @@
 
 ### Bug Fixes
 
-- Incomingcall added
-- webhookUrl
+* Incomingcall added
+* webhookUrl
 
 ### Features
 
-- New version of LIB
-- **Release**: Implemented method for sending buttons list
-- redisPrefix
-- removeRedisPrefix
-- **depsDev**: AddPrefixRedis
+* New version of LIB
+* **Release**: Implemented method for sending buttons list
+* redisPrefix
+* removeRedisPrefix
+* **depsDev**: AddPrefixRedis
 
 ---
 
@@ -865,11 +871,11 @@
 
 ### Features
 
-- change privacy group
-- forward messages
-- group invite link
-- pin chat
-- sendMentioned
+* change privacy group
+* forward messages
+* group invite link
+* pin chat
+* sendMentioned
 
 ---
 
@@ -877,9 +883,9 @@
 
 ### Bug Fixes
 
-- chatwoot multiple inbox
-- Inbox of chatwoot added
-- many fix
+* chatwoot multiple inbox
+* Inbox of chatwoot added
+* many fix
 
 ---
 
@@ -887,8 +893,8 @@
 
 ### Features
 
-- added form-data
-- New version of LIB
+* added form-data
+* New version of LIB
 
 ---
 
@@ -896,18 +902,18 @@
 
 ### Bug Fixes
 
-- changes requested in the validation of
-- bug to send messages to groups
-- chatwoot
-- Commit improvements
-- Lint corrections
-- Small standard adjustments
-- Receive from Chatwoot with client disconnected
-- version 2 20210719
+* changes requested in the validation of
+* bug to send messages to groups
+* chatwoot
+* Commit improvements
+* Lint corrections
+* Small standard adjustments
+* Receive from Chatwoot with client disconnected
+* version 2 20210719
 
 ### Features
 
-- chatwoot
+* chatwoot
 
 ---
 
@@ -915,7 +921,7 @@
 
 ### Features
 
-- onParticipantsChanged webhook added
+* onParticipantsChanged webhook added
 
 ---
 
@@ -923,14 +929,14 @@
 
 ### Bug Fixes
 
-- Tokenstore Mongo and Redis was increased
-- ForwardMessages To Groups
-- PeerDepandencies and Config Optimized
+* Tokenstore Mongo and Redis was increased
+* ForwardMessages To Groups
+* PeerDepandencies and Config Optimized
 
 ### Features
 
-- Send the contact name by vcard
-- New version of LIB
+* Send the contact name by vcard
+* New version of LIB
 
 ---
 
@@ -938,5 +944,5 @@
 
 ### Bug Fixes
 
-- Archive only unarchived chats
-- Fixed to the main js file input
+* Archive only unarchived chats
+* Fixed to the main js file input
